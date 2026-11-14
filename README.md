@@ -20,6 +20,12 @@ The photo shows the bench prototype used to test the controls. The later two-boa
 
 Throttle sets the outer motor's PWM in a turn. Steering reduces the inner motor's PWM in proportion to joystick deflection. Both motors stop when throttle is centered.
 
+## Wiring Overview
+
+![RC car wiring overview with the vehicle on the left and the joystick controller on the right](docs/wiring)
+
+Prototype wiring illustration. See the firmware pin tables below for the GPIO assignments used by the current sketches. 
+
 ## Upload and test
 
 1. Use Arduino IDE with the Arduino ESP32 board package and select your ESP32 board with Bluetooth Classic support.
