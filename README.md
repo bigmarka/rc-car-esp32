@@ -22,7 +22,7 @@ Throttle sets the outer motor's PWM in a turn. Steering reduces the inner motor'
 
 ## Wiring Overview
 
-![RC car wiring overview with the vehicle on the left and the joystick controller on the right](docs/wiring)
+![RC car wiring overview with the vehicle on the left and the joystick controller on the right](docs/wiring.jpg)
 
 Prototype wiring illustration. See the firmware pin tables below for the GPIO assignments used by the current sketches. 
 
